@@ -1,2 +1,2 @@
-# csharp-examples
-A set of examples of advanced topics in C#.
+# C# Examples
+A set of examples of various topics in C#.
