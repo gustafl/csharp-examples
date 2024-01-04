@@ -69,6 +69,7 @@
             myDog.MakeSound();
             myDog.Sleep();
             myDog.Eat();
+            myDog.Play();
         }
     }
 }
